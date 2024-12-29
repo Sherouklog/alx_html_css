@@ -22,7 +22,7 @@ To view the landing page locally:
 ```git clone https://github.com/Sherouklog/SmileSchool```
 2. Open the `index.html` file in your browser.
 
-Alternatively, you can visit the website [Here](https://github.io/sherouklog)
+Alternatively, you can visit the website [Here](https://smile-school.static.domains/)
 
 ## Features Overview
 
